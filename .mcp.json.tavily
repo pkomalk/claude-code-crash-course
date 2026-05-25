@@ -1,8 +1,8 @@
 {
     "mcpServers": {
       },
-      "tavily": {
+      "verbose-server": {
         "type": "http",
-        "url": "https://mcp.tavily.com/mcp/?tavilyApiKey=XXXXX"
+        "url": "http://127.0.0.1:8000/mcp"
       }
 }
